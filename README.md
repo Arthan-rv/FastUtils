@@ -1,6 +1,6 @@
 # FastUtils 🚀
 
-Free browser-based tools. No signup. Fast. Simple.
+Free browser-based image tools. No signup. Fast. Simple.
 
 ## 🔥 Features
 - Image compression (client-side)
@@ -18,6 +18,10 @@ Free browser-based tools. No signup. Fast. Simple.
 
 ### 🛠 Image Compressor
 ![Compressor](./compressor.png)
+
+## 🔒 Privacy First
+All image processing happens in your browser.
+No files are uploaded to any server.
 
 ## 🛠 Tech Stack
 - Next.js
