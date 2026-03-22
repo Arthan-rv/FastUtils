@@ -16,9 +16,9 @@ export default function Home() {
         Free tools. No signup. Instant results.
       </p>
 
-      <Link href="/image-compressor" className="text-blue-400">
-        Image Compressor →
-      </Link>
+      <a href="/image-compressor" className="text-blue-400 text-lg">
+  Compress Images Instantly →
+</a>
     </main>
   );
 }
