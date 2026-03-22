@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FastUtils 🚀
 
-## Getting Started
+Free browser-based tools. No signup. Fast. Simple.
 
-First, run the development server:
+## 🔥 Features
+- Image compression (client-side)
+- No uploads → privacy friendly
+- Instant results
+- Works directly in browser
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Demo
+👉 https://fast-utils.vercel.app
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📸 Preview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🏠 Home
+![Home](./home.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🛠 Image Compressor
+![Compressor](./compressor.png)
 
-## Learn More
+## 🛠 Tech Stack
+- Next.js
+- TypeScript
+- Tailwind CSS
 
-To learn more about Next.js, take a look at the following resources:
+## ⚡ Why I built this
+Most image tools either:
+- require signup
+- upload files to servers
+- or are slow
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+So I built a simple tool that runs completely in the browser.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚧 Roadmap
+- Image resize
+- Format conversion (PNG ↔ JPG)
+- More utilities
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ⭐ Support
+If you find this useful, consider starring the repo.
